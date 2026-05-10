@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\bin\Debug\NeuralLayerApp.exe.config
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\bin\Debug\NeuralLayerApp.exe
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\bin\Debug\NeuralLayerApp.pdb
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\obj\Debug\NeuralLayerApp.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\obj\Debug\NeuralLayerApp.Form1.resources
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\obj\Debug\NeuralLayerApp.Properties.Resources.resources
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\obj\Debug\NeuralLayerApp.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\obj\Debug\NeuralLayerApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\obj\Debug\NeuralLayerApp.exe
+C:\Users\asus\source\repos\NeuralLayerApp\NeuralLayerApp\obj\Debug\NeuralLayerApp.pdb
