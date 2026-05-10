@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\obj\Debug\ForeignWordsSynonyms.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\obj\Debug\ForeignWordsSynonyms.Form1.resources
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\obj\Debug\ForeignWordsSynonyms.Properties.Resources.resources
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\obj\Debug\ForeignWordsSynonyms.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\obj\Debug\ForeignWordsSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\bin\Debug\ForeignWordsSynonyms.exe.config
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\bin\Debug\ForeignWordsSynonyms.exe
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\bin\Debug\ForeignWordsSynonyms.pdb
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\obj\Debug\ForeignWordsSynonyms.exe
+C:\Users\asus\source\repos\ForeignWordsSynonyms\ForeignWordsSynonyms\obj\Debug\ForeignWordsSynonyms.pdb
