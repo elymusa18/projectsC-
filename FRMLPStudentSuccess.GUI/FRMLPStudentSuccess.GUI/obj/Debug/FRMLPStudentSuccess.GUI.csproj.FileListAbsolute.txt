@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\bin\Debug\FRMLPStudentSuccess.GUI.exe.config
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\bin\Debug\FRMLPStudentSuccess.GUI.exe
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\bin\Debug\FRMLPStudentSuccess.GUI.pdb
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\obj\Debug\FRMLPStudentSuccess.GUI.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\obj\Debug\FRMLPStudentSuccess.GUI.Form1.resources
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\obj\Debug\FRMLPStudentSuccess.GUI.Properties.Resources.resources
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\obj\Debug\FRMLPStudentSuccess.GUI.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\obj\Debug\FRMLPStudentSuccess.GUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\obj\Debug\FRMLPStudentSuccess.GUI.exe
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\obj\Debug\FRMLPStudentSuccess.GUI.pdb
+C:\Users\asus\source\repos\FRMLPStudentSuccess.GUI\FRMLPStudentSuccess.GUI\bin\Debug\Core\students.csv
